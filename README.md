@@ -49,9 +49,9 @@ I am an Associate's graduate in Programming at UTN (Universidad Tecnológica Nac
 </p>
 
 ## Checkout my socials
-<a href="instagram.com/brenda.yw">
+<a href="https://www.instagram.com/brenda.yw/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" />
-<a href="linkedin.com/in/brendayw">
+<a href="https://www.linkedin.com/in/brendayw/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 <!---
 brendayw/brendayw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
