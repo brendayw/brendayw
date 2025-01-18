@@ -1,4 +1,6 @@
-- 👋 Hi, I’m Brenda and I´m from Argentina. I discovered coding when I was around 12 or 13 years old out of curioscity but didn´t really know it was something you could learn in academys or even at uni. Now I´m 24 years old and decided to do a career switch and give web desing and programming a chance.
+<h1 align="center">Hi , I'm Brenda Yañez <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+- I discovered coding when I was around 12 or 13 years old out of curioscity but didn´t really know it was something you could learn in academys or even at uni. Now I´m 24 years old and decided to do a career switch and give web desing and programming a chance.
 - 👀 I’m interested in sports and nutrition (I´m kind of a gym rat), manifestation and desing.
 - 🌱 I’m currently learning HTML5, CSS, JS AJAX, PHP and MySQL thru different proyects.
 - 💞️ I’m looking to collaborate and learn new things thru this website and others
