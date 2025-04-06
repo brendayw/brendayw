@@ -5,9 +5,9 @@
 I am an Associate's graduate in Programming at UTN (Universidad Tecnológica Nacional). I am good at Java, Python, Javascript, C++, MySQL and others. I discovered coding when I was around 12 or 13 years old out of curioscity but didn´t really know it was something you could learn in academys or even at uni.
 
 * **I am interested in Web designing, Android development, and digital marketing**
-- 🌱 I’m currently learning and working on a bank system simulator project in ...
-  - Java
-  - Spring & Spring Boot
+- 🌱 I’m currently learning ...
+  - Java & Spring Boot
+  - React
 - Outside tech, 📖 I love sports and nutrition, manifestation and desing.
 - 📫 Reach out to me at: <a href="brendayw97@gmail.com">brendayw97@gmail.com</a>
 
